@@ -1,0 +1,1 @@
+Procedure untuk memulai pembacaan File teks "pitakar" untuk di muatkan ke dalam stream buffer FILE menyetel retval untuk membaca karakter pertama dalam FILE dan menyimpan dalam variabel CC, procedure untuk membaca karakter selanjutnya menyetel retval untuk membaca karakter selanjutnya dalam CC Jika CC mencapai MARK Selesai dilakukan pembacaan File.
